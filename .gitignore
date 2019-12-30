@@ -1,0 +1,9 @@
+# Project exclude paths
+/p2p-common/target/
+/p2p-dataservice/target/
+/p2p-exterface/target/
+/p2p-httpClient/target/
+/p2p-pay/target/
+/p2p-QRCode/target/
+/p2p-timer/target/
+/p2p-web/target/
